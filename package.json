@@ -1,0 +1,20 @@
+{
+  "name": "hclfmt",
+  "main": "./lib/hclfmt",
+  "version": "0.1.0",
+  "description": "Format hcl source code with hclfmt",
+  "keywords": [
+    "hcl",
+    "fmt",
+    "hclfmt"
+  ],
+  "repository": "https://github.com/chrw/atom-hclfmt",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "dependencies": {},
+  "package-deps": [
+    "language-hcl"
+  ]
+}

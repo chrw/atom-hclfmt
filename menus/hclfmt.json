@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    "atom-text-editor[data-grammar~=\"hcl\"]": [
+      {
+        "label": "Format with hclfmt",
+        "command": "hclfmt:format"
+      }
+    ]
+  }
+}
