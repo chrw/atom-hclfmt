@@ -1,7 +1,7 @@
 {
   "name": "hclfmt",
   "main": "./lib/hclfmt",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Format hcl source code with hclfmt",
   "keywords": [
     "hcl",
